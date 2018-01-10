@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{E4B9DA7B-E0F1-4628-BA9A-73412F45C3D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloTests/HelloTest.cs">
+    <Files>
+      <File FileName="HelloTests/HelloTest.cs" Line="21" Column="12" />
+      <File FileName="Hello/Hello.cs" Line="11" Column="22" />
+      <File FileName="Hello/Program.cs" Line="3" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoTDD" expanded="True">
+            <Node name="Hello" expanded="True" />
+            <Node name="HelloTests" expanded="True">
+              <Node name="HelloTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Option id="ShowTestTime" value="True" />
+          <Node name="DemoTDD" expanded="True">
+            <Node name="HelloTests" expanded="True">
+              <Node name="HelloTests" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="five_should_say_buzz" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Hello PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HelloTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

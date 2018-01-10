@@ -1,0 +1,11 @@
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/bin/Debug/netcoreapp2.0/Hello.deps.json
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.json
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/bin/Debug/netcoreapp2.0/Hello.runtimeconfig.dev.json
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/bin/Debug/netcoreapp2.0/Hello.dll
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/bin/Debug/netcoreapp2.0/Hello.pdb
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/obj/Debug/netcoreapp2.0/Hello.csprojResolveAssemblyReference.cache
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/obj/Debug/netcoreapp2.0/Hello.csproj.CoreCompileInputs.cache
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfoInputs.cache
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/obj/Debug/netcoreapp2.0/Hello.AssemblyInfo.cs
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/obj/Debug/netcoreapp2.0/Hello.dll
+/Users/somkiat/data/coaching/easybuy/dojo/tdd_dotnet/Hello/obj/Debug/netcoreapp2.0/Hello.pdb
